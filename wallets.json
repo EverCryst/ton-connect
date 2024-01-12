@@ -1,0 +1,34 @@
+[
+   {
+      "name":"Wallet",
+      "image":"https://wallet.tg/images/logo-288.png",
+      "about_url":"https://wallet.tg/",
+      "app_name":"telegram-wallet",
+      "bridge_url":"https://bridge.tonapi.io/bridge",
+      "universal_url":"https://t.me/wallet?attach=wallet"
+   },
+   {
+      "name":"Tonkeeper",
+      "image":"https://tonkeeper.com/assets/tonconnect-icon.png",
+      "about_url":"https://tonkeeper.com",
+      "app_name":"tonkeeper",
+      "bridge_url":"https://bridge.tonapi.io/bridge",
+      "universal_url":"https://app.tonkeeper.com/ton-connect"
+   },
+   {
+      "name":"MyTonWallet",
+      "image":"https://mytonwallet.io/icon-256.png",
+      "about_url":"https://mytonwallet.io",
+      "app_name":"mytonwallet",
+      "bridge_url":"https://tonconnectbridge.mytonwallet.org/bridge/",
+      "universal_url":"https://connect.mytonwallet.org"
+   },
+   {
+      "name":"Tonhub",
+      "image":"https://tonhub.com/tonconnect_logo.png",
+      "about_url":"https://tonhub.com",
+      "app_name":"tonhub",
+      "bridge_url":"https://connect.tonhubapi.com/tonconnect",
+      "universal_url":"https://tonhub.com/ton-connect"
+   }
+]
